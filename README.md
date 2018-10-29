@@ -1,2 +1,2 @@
 # undo-pr
-Test repo for unding PRs
+Test repo for undoing PRs
